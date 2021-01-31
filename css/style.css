@@ -1,0 +1,31 @@
+#letter-size{
+    font-size: 30px;
+}
+#cursor-pointer{
+    cursor: pointer;
+}
+
+.tam-icon{
+    height: 80px; 
+    font-size:60px
+}
+
+.color-x{
+    color: #A90E94;
+}
+
+.color-o{
+    color: #0E5EA9;
+}
+
+@media (max-width: 767px) { 
+
+    .container h3{
+        font-size: 1.00rem;
+    }
+    .container h5{
+        font-size: 0.90rem;
+    }
+    
+
+}
